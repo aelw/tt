@@ -56,7 +56,11 @@ div.explanation {
   .grid-container-overall {
     display: flex;
     flex-direction: column;
-  }
+background: #000;
+    border-radius: 25px;
+	background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/151/525/large/taylor-richardson-magiccircle.jpg?1547239370');background-repeat:no-repeat;background-size:auto 100%;
+}
+
 
   .grid-container-cross-part {
     display: flex;
