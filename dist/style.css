@@ -1,6 +1,8 @@
 /*GENERAL*/
 * {
   box-sizing: border-box;
+  color:#000;
+  text-decoration:none;
 }
 
 body {
