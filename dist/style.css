@@ -9,10 +9,10 @@ body {
   margin: 0 auto;
   padding: 10px;
   box-sizing: border-box;
-  background:url('https://i.pinimg.com/originals/19/5f/60/195f60d34f1d05b49cd0202261b7f62c.jpg');background-attachment:fixed;background-size:cover;background-position:center;background-repeat:no-repeat
+  
 }
 
-/*sets default img size */
+/*background:url('https://i.pinimg.com/originals/19/5f/60/195f60d34f1d05b49cd0202261b7f62c.jpg');background-attachment:fixed;background-size:cover;background-position:center;background-repeat:no-repeat */
 
 div.explanation {
   font-size: 14px;
