@@ -150,7 +150,7 @@ div.explanation {
     	background-position: center center;
 
     display: grid;
-    text-align: center;
+    text-align: right;
     grid-template-columns: 65% 35%;
     width: 90%;
     height: auto;
