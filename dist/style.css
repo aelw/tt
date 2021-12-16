@@ -143,7 +143,7 @@ div.explanation {
   .grid-container-overall {
 
 	background: #000;
-	background-image: linear-gradient( 135deg, #F97794 10%, #623AA2 100%);
+    background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
 	/*background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/151/525/large/taylor-richardson-magiccircle.jpg?1547239370');*/
 	background-size:auto 100%;
 	    	background-repeat: no-repeat;
