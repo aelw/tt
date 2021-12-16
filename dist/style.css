@@ -81,7 +81,7 @@ div.explanation {
 
   .grid-container-staff-part {
     display: flex;
-    padding: 25%;
+    padding: 25% 0 25% 25%;
     flex-direction: column;
 /*     border: 10px solid pink; */
   }
