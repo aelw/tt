@@ -30,7 +30,7 @@ var Fool = {
   element: "NA",
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
-  img: "https://upload.wikimedia.org/wikipedia/en/9/90/RWS_Tarot_00_Fool.jpg",
+  img: "/RWS_Tarot_00_Fool.jpg",
   rw_addendum:
     "어리석음, 조증, 사치, 도취, 정신 착란, 광란, 비통함.\n \
     reversed : 태만, 부재, 분배, 부주의, 무관심, 무효, 허영심.",
@@ -53,7 +53,7 @@ var Magician = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/d/de/RWS_Tarot_01_Magician.jpg",
+    "/RWS_Tarot_01_Magician.jpg",
   rw_addendum:
     "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; \
     self-confidence, will; the Querent, if male. Reversed: Physician, Magus, mental disease, disgrace, disquiet.",
@@ -76,7 +76,7 @@ var HighPriestess = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/8/88/RWS_Tarot_02_High_Priestess.jpg",
+    "/RWS_Tarot_02_High_Priestess.jpg",
   rw_addendum:
     "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male;\n \
     the Querent herself, if female; silence, tenacity; mystery, wisdom, science. Reversed: Passion, moral or physical ardour, conceit, surface knowledge.",
@@ -99,7 +99,7 @@ var Empress = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/d/d2/RWS_Tarot_03_Empress.jpg",
+    "/RWS_Tarot_03_Empress.jpg",
   rw_addendum:
     "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.\n\
     Reversed: Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
@@ -122,7 +122,7 @@ var Emperor = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/c/c3/RWS_Tarot_04_Emperor.jpg",
+    "/RWS_Tarot_04_Emperor.jpg",
   rw_addendum:
     "사회성 권위, 지배, 안정, 행동력, 성취, 달성, 완전 강한 긍정, 능력자, 사업자기질, 완벽주의\n\
     reversed: 낭비하는, 의심 많은, 자기 주장이 강함, 게으름",
@@ -145,7 +145,7 @@ var Hierophant = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/8/8d/RWS_Tarot_05_Hierophant.jpg",
+    "/RWS_Tarot_05_Hierophant.jpg",
   rw_addendum:
     "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.\n\
     Reversed: Society, good understanding, concord, overkindness, weakness.",
@@ -167,7 +167,7 @@ var Lovers = {
   element: "NA",
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
-  img: "https://upload.wikimedia.org/wikipedia/en/d/db/RWS_Tarot_06_Lovers.jpg",
+  img: "/RWS_Tarot_06_Lovers.jpg",
   rw_addendum:
     "Attraction, love, beauty, trials overcome.\n\
     Reversed: Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
@@ -190,7 +190,7 @@ var Chariot = {
   zodiac_sign: "NA",
   direction: upright_or_reversed(),
   img:
-    "https://upload.wikimedia.org/wikipedia/en/9/9b/RWS_Tarot_07_Chariot.jpg",
+    "/RWS_Tarot_07_Chariot.jpg",
   rw_addendum:
     "Succour, providence; also war, triumph, presumption, vengeance, trouble.\n\
     Reversed: Riot, quarrel, dispute, litigation, defeat.",
